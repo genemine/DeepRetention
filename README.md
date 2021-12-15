@@ -30,6 +30,11 @@ conda install samtools bedtools -c bioconda
 
 # install from github
 git clone https://github.com/genemine/DeepRetention.git
+or
+wget https://github.com/genemine/DeepRetention/archive/refs/heads/master.zip
+
+### then download dataset.zip and unzip (Stored with Git LFS)
+wget https://github.com/genemine/DeepRetention/raw/master/dataset.zip
 ```
 
 
