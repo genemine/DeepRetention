@@ -33,8 +33,8 @@ git clone https://github.com/genemine/DeepRetention.git
 or
 wget https://github.com/genemine/DeepRetention/archive/refs/heads/master.zip
 
-### then download dataset.zip and unzip (Stored with Git LFS)
-wget https://github.com/genemine/DeepRetention/raw/master/dataset.zip
+### then download dataset.zip and unzip (The large file "dataset.zip" is stored in Google Drive)
+wget https://drive.google.com/file/d/1RYj9-eEC8S1SYyTRObo9J_XJhD2BAowB/view?usp=sharing
 ```
 
 
