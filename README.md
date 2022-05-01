@@ -33,10 +33,10 @@ git clone https://github.com/genemine/DeepRetention.git
 or
 wget https://github.com/genemine/DeepRetention/archive/refs/heads/master.zip
 
-### then download dataset.zip and unzip (The large file "dataset.zip" is stored in Google Drive)
-
+### then download dataset.zip and unzip
+### The large file "dataset.zip" is stored in Google Drive
 ```
-* download [dataset.zip](https://drive.google.com/u/0/uc?id=1RYj9-eEC8S1SYyTRObo9J_XJhD2BAowB&export=download)
+* download [dataset.zip](https://drive.google.com/u/0/uc?id=1RYj9-eEC8S1SYyTRObo9J_XJhD2BAowB&export=download) from Google Drive
 
 
 ## IR detection process
