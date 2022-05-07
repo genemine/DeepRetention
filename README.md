@@ -35,7 +35,7 @@ wget https://github.com/genemine/DeepRetention/archive/refs/heads/master.zip
 
 ### then download dataset.zip and unzip
 ### The large file "dataset.zip" is stored in Zenodo
-wget https://zenodo.org/record/6526078/files/dataset.zip?download=1
+wget https://zenodo.org/record/6526078/files/dataset.zip?download=1 -O dataset.zip
 ```
 
 ## IR detection process
