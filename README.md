@@ -34,10 +34,9 @@ or
 wget https://github.com/genemine/DeepRetention/archive/refs/heads/master.zip
 
 ### then download dataset.zip and unzip
-### The large file "dataset.zip" is stored in Google Drive
+### The large file "dataset.zip" is stored in Zenodo
+wget https://zenodo.org/record/6526078/files/dataset.zip?download=1
 ```
-* download [dataset.zip](https://drive.google.com/u/0/uc?id=1RYj9-eEC8S1SYyTRObo9J_XJhD2BAowB&export=download) and unzip 
-
 
 ## IR detection process
 [src/main.py](https://github.com/genemine/DeepRetention/blob/master/src/main.py) is the entire detection pipeline. 
