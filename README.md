@@ -23,7 +23,7 @@ Bibtex:
 ## Install DeepRetention
 ```python
 # python packages
-pip install numpy==1.18.5 tensorflow==2.3.1 pandas==1.0.5 gensim==3.8.3
+pip install numpy==1.18.5 tensorflow==2.6.1 pandas==1.0.5 gensim==3.8.3 Keras==2.6.1
 
 # bio tools: samtools 1.7 && bedtools 2.29.2
 conda install samtools bedtools -c bioconda
